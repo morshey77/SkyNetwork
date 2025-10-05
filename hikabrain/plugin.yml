@@ -1,0 +1,9 @@
+name: HikaBrain
+main: skynetwork\hikabrain\Main
+version: 1.0.0
+author: SkyNetwork-MCPE Team
+api: 5.0.0
+
+depend:
+  - Game
+  - InvMenu

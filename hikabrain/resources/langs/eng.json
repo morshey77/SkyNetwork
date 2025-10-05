@@ -1,0 +1,10 @@
+{
+    "CAUSE_ENTITY_ATTACK": "&c&lEntity Attack > % has died by %",
+    "CAUSE_VOID": "&8&lVoid > % has died",
+    "JOIN_GAME": "&a&lJoin Game > % has joined the game",
+    "LEAVE_GAME": "&c&lLeave Game > % has left the game",
+    "ALL": "&7&lAll > %: %",
+    "TEAM": "&9&lTeam > %: %",
+    "RESPAWN_TITLE": "&a&lRespawning...",
+    "WIN": "&a&l[%] won!"
+}

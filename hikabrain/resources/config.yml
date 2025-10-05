@@ -1,0 +1,8 @@
+game_port: 19132
+team_size: 2
+team_player_minsize: 1
+team_player_maxsize: 1
+team_win_points: 3
+
+arenas:
+  - 'arenas/arena1.json'
