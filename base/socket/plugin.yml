@@ -1,0 +1,8 @@
+name: Socket
+main: skynetwork\socket\Socket
+version: 1.0.0
+author: SkyNetwork-MCPE Team
+api: 4.0.0
+
+depend:
+  - Core
