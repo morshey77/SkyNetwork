@@ -1,0 +1,5 @@
+name: Core
+main: skynetwork\core\Core
+version: 1.0.0
+author: SkyNetwork-MCPE Team
+api: 5.0.0
