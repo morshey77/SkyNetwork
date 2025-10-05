@@ -1,0 +1,43 @@
+# Table of contents
+
+## API
+
+* [Core](README.md)
+  * [1⃣ Enums](api/core/enums/README.md)
+    * [🧷 RecursiveRegisterType](api/core/enums/recursive\_register\_type.md)
+  * [📁 Libs](api/core/libs/README.md)
+    * [☠ Bossbar](api/core/libs/bossbar/README.md)
+      * [☠ BossBar](api/core/libs/bossbar/kit.md)
+      * [☠ BossBarPacket](api/core/libs/bossbar/bossbar\_packet.md)
+    * [📱 FormAPI](api/core/libs/form\_api.md)
+    * [⚔ Kit](api/core/libs/kit.md)
+    * [🔮 Langs](api/core/libs/langs/README.md)
+      * [🇬🇧 Lang](api/core/libs/langs/lang.md)
+      * [🇲🇫 Translate](api/core/libs/langs/database.md)
+    * [🦟 Mysql](api/core/libs/mysql/README.md)
+      * [🕋 Database](api/core/libs/mysql/database.md)
+    * [🔭 Scoreboard](api/core/libs/scoreboard/README.md)
+      * [🔭 Scoreboard](api/core/libs/scoreboard/scoreboard.md)
+      * [🔬 ScoreboardPacket](api/core/libs/scoreboard/scoreboard\_packet.md)
+  * [⚡ Managers](api/core/managers/README.md)
+    * [👨💼 Manager](api/core/managers/manager.md)
+    * [💥 ArrayManager](api/core/managers/array\_manager.md)
+  * [✅ Tasks](api/core/tasks/README.md)
+    * [🗣 ClosureAsyncTask](api/core/tasks/closure\_async\_task.md)
+    * [🔁 RepeatingTask](api/core/tasks/repeating\_task.md)
+  * [📏 Traits](api/core/traits/README.md)
+    * [🧷 ManagersTrait](api/core/traits/managers\_trait.md)
+    * [🧷 RecursiveRegisterTrait](api/core/traits/recursive\_register\_trait.md)
+    * [🧷 SaveDirTrait](api/core/traits/save\_dir\_trait.md)
+* [🐒 Entity](api/entity/README.md)
+  * [☝ EntityClick](api/entity/entityclick.md)
+* [🕹 Game](api/game/README.md)
+  * [🎡 Events](api/game/events/README.md)
+    * [🎁 GamePlayerDeathByPlayerEvent](api/game/events/game\_player\_death\_by\_player\_event.md)
+* [👜 InvMenu](api/inventory/README.md)
+
+## Credits
+
+* [📃 License](credits/license.md)
+* [🤖 PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
+* [🫂 Contributors](credits/contributors.md)
