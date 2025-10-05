@@ -1,0 +1,213 @@
+Categories:
+  0: # Catégorie 1
+    Name: "Agriculture:textures/items/carrot" # Name : texture
+    Items:
+      0: # Item 1
+        Name: "360:0:10:4:DEFAULT:textures/items/melon" #id : Melon
+      1: # Item 2
+        Name: "391:0:10:5:DEFAULT:textures/items/carrot" #id : Carotte
+      2: # Item 2
+        Name: "392:0:10:5:DEFAULT:textures/items/potato" #id : Patates
+      3: # Item 2
+        Name: "86:0:10:8:DEFAULT:textures/blocks/pumpkin_face_off" #id : Citrouilles
+      4: # Item 2
+        Name: "296:0:10:6:DEFAULT:textures/items/wheat" #id : Blé
+      5: # Item 2
+        Name: "81:0:10:4:DEFAULT:textures/blocks/cactus_side" #id : Cactus
+  1: # Catégorie 2
+    Name: "Block:textures/blocks/stone"  # Name : texture
+    Items:
+      0: # Item 1
+        Name: "3:0:5:1:DEFAULT:textures/blocks/dirt" #id :Terre
+      1: # Item 2
+        Name: "2:0:6:1:DEFAULT:textures/blocks/grass_side_carried" #id : Herbe
+      2: # Item 2
+        Name: "4:0:5:1:DEFAULT:textures/blocks/cobblestone" #id : Pierres
+      3: # Item 2
+        Name: "1:0:6:1:DEFAULT:textures/blocks/stone" #id : Pierre
+      4: # Item 2
+        Name: "1:3:6:1:DEFAULT:textures/blocks/stone_diorite" #id : Diorite
+      5: # Item 2
+        Name: "1:1:6:1:DEFAULT:textures/blocks/stone_granite" #id : Granite
+      6: # Item 2
+        Name: "1:5:6:1:DEFAULT:textures/blocks/stone_andesite" #id : Andésite
+      7: # Item 2
+        Name: "49:0:50:10:DEFAULT:textures/blocks/obsidian" #id : Obsidienne
+      8: # Item 2
+        Name: "45:0:10:4:DEFAULT:textures/blocks/brick" #id : Bloc de Briques
+      9: # Item 2
+        Name: "12:0:7:1:DEFAULT:textures/blocks/sand" #id : Sable
+      10: # Item 2
+        Name: "12:1:7:1:DEFAULT:textures/blocks/red_sand" #id : Sable rouge
+      11: # Item 2
+        Name: "79:0:40:5:DEFAULT:textures/blocks/ice" #id : Glace
+      12: # Item 2
+        Name: "174:0:40:5:DEFAULT:textures/blocks/ice_packed" #id : Glace compactée
+      13: # Item 2
+        Name: "155:0:30:5:DEFAULT:textures/blocks/quartz_block_top" #id : Bloc de quartz
+      14: # Item 2
+        Name: "87:0:6:1:DEFAULT:textures/blocks/netherrack" #id : Roche du Nether
+      15: # Item 2
+        Name: "169:0:30:5:DEFAULT:textures/blocks/sea_lantern" #id : Lanterne 
+  2: # Catégorie 1
+    Name: "Bois:textures/blocks/log_oak" # Name : texture
+    Items:
+      0: # Item 1
+        Name: "17:0:10:2:DEFAULT:textures/blocks/log_oak" #id : Chene
+      1: # Item 2
+        Name: "17:2:10:2:DEFAULT:textures/blocks/log_birch" #id : Bouleau
+      2: # Item 2
+        Name: "17:1:10:2:DEFAULT:textures/blocks/log_spruce" #id : sapin
+      3: # Item 2
+        Name: "162:0:10:2:DEFAULT:textures/blocks/log_acacia" #id : acacia
+      4: # Item 2
+        Name: "162:1:10:2:DEFAULT:textures/blocks/log_big_oak" #id : chene noir
+      5: # Item 2
+        Name: "17:3:10:2:DEFAULT:textures/blocks/log_jungle" #id : tropical
+      6: # Item 1
+        Name: "5:0:7:2:DEFAULT:textures/blocks/planks_oak" #id : planche de Chene
+      7: # Item 2
+        Name: "5:2:7:2:DEFAULT:textures/blocks/planks_birch" #id : planche de Bouleau
+      8: # Item 2
+        Name: "5:1:7:2:DEFAULT:textures/blocks/planks_spruce" #id : planche de sapin
+      9: # Item 2
+        Name: "5:4:7:2:DEFAULT:textures/blocks/planks_acacia" #id : planche de acacia
+      10: # Item 2
+        Name: "5:5:7:2:DEFAULT:textures/blocks/planks_big_oak" #id : planche de chene noir
+      11: # Item 2
+        Name: "5:3:7:2:DEFAULT:textures/blocks/planks_jungle" #id : planche de tropical
+  3: # Catégorie 1
+    Name: "Verre:textures/blocks/glass" # Name : texture
+    Items:
+      0: # Item 1
+        Name: "20:0:10:4:DEFAULT:textures/blocks/glass" #id : Verre
+      1: # Item 1
+        Name: "241:0:10:4:DEFAULT:textures/blocks/glass_white" #id : Verre blanc
+      2: # Item 1
+        Name: "241:10:10:4:DEFAULT:textures/blocks/glass_purple" #id : Verre viollet
+      3: # Item 1
+        Name: "241:3:10:4:DEFAULT:textures/blocks/glass_light_blue" #id : Verre bleu ciel
+      4: # Item 1
+        Name: "241:14:10:4:DEFAULT:textures/blocks/glass_red" #id : Verre rouge
+      5: # Item 1
+        Name: "241:1:10:4:DEFAULT:textures/blocks/glass_orange" #id : Verre orange
+      6: # Item 1
+        Name: "241:4:10:4:DEFAULT:textures/blocks/glass_yellow" #id : Verre jaune
+      7: # Item 1
+        Name: "241:11:10:4:DEFAULT:textures/blocks/glass_blue" #id : Verre bleu
+      8: # Item 1
+        Name: "241:12:10:4:DEFAULT:textures/blocks/glass_brown" #id : Verre marron
+      9: # Item 1
+        Name: "241:2:10:4:DEFAULT:textures/blocks/glass_magenta" #id : Verre magenta
+      10: # Item 1
+        Name: "241:6:10:4:DEFAULT:textures/blocks/glass_pink" #id : Verre rose
+      11: # Item 1
+        Name: "241:8:10:4:DEFAULT:textures/blocks/glass_silver" #id : Verre gris clair
+      12: # Item 1
+        Name: "241:7:10:4:DEFAULT:textures/blocks/glass_gray" #id : Verre gris
+      13: # Item 1
+        Name: "241:15:10:4:DEFAULT:textures/blocks/glass_black" #id : Verre noir
+      14: # Item 1
+        Name: "241:9:10:4:DEFAULT:textures/blocks/glass_cyan" #id : Verre cyan
+      15: # Item 1
+        Name: "241:13:10:4:DEFAULT:textures/blocks/glass_green" #id : Verre vert
+      16: # Item 1
+        Name: "241:5:10:4:DEFAULT:textures/blocks/glass_lime" #id : Verre vert clair
+  4: # Catégorie 1
+    Name: "Terre Cuite:textures/blocks/hardened_clay" # Name : texture
+    Items:
+      0: # Item 1
+        Name: "172:0:15:4:DEFAULT:textures/blocks/hardened_clay" #id : Terre cuite
+      1: # Item 2
+        Name: "159:5:15:4:DEFAULT:textures/blocks/hardened_clay_stained_lime" #id : Terre cuite vert clair
+      2: # Item 1
+        Name: "159:13:15:4:DEFAULT:textures/blocks/hardened_clay_stained_green" #id : Terre cuite vert
+      3: # Item 1
+        Name: "159:9:15:4:DEFAULT:textures/blocks/hardened_clay_stained_cyan" #id :Terre cuite cyan
+      4: # Item 1
+        Name: "159:3:15:4:DEFAULT:textures/blocks/hardened_clay_stained_light_blue" #id : Terre cuite bleu ciel
+      5: # Item 1
+        Name: "159:11:15:4:DEFAULT:textures/blocks/hardened_clay_stained_blue" #id : Terre cuite bleu
+      6: # Item 1
+        Name: "159:10:15:4:DEFAULT:textures/blocks/hardened_clay_stained_purple" #id : Terre cuite violette
+      7: # Item 1
+        Name: "159:2:15:4:DEFAULT:textures/blocks/hardened_clay_stained_magenta" #id : Terre cuite magenta
+      8: # Item 1
+        Name: "159:6:15:4:DEFAULT:textures/blocks/hardened_clay_stained_pink" #id : Terre cuite rose
+      9: # Item 1
+        Name: "159:14:15:4:DEFAULT:textures/blocks/hardened_clay_stained_red" #id :Terre cuite rouge
+      10: # Item 1
+        Name: "159:12:15:4:DEFAULT:textures/blocks/hardened_clay_stained_brown" #id : Terre cuite marron
+      11: # Item 1
+        Name: "159:15:15:4:DEFAULT:textures/blocks/hardened_clay_stained_black" #id : Terre cuite noire
+      12: # Item 1
+        Name: "159:0:15:4:DEFAULT:textures/blocks/hardened_clay_stained_white" #id : Terre cuite blanche
+      13: # Item 1
+        Name: "159:8:15:4:DEFAULT:textures/blocks/hardened_clay_stained_silver" #id : Terre cuite gris clair
+      14: # Item 1
+        Name: "159:1:15:4:DEFAULT:textures/blocks/hardened_clay_stained_orange" #id : Terre cuite orange 
+      15: # Item 1
+        Name: "159:7:15:4:DEFAULT:textures/blocks/hardened_clay_stained_gray" #id : Terre cuite grise
+      16: # Item 1
+        Name: "159:4:15:4:DEFAULT:textures/blocks/hardened_clay_stained_yellow" #id : Terre cuite jaune
+  5: # Catégorie 1
+    Name: "Minerais:textures/items/diamond" # Name : texture
+    Items:
+      0: # Item 1
+        Name: "263:0:30:15:DEFAULT:textures/items/coal" #id : Charbon
+      1: # Item 1
+        Name: "265:0:40:20:DEFAULT:textures/items/iron_ingot" #id : Fer
+      2: # Item 1
+        Name: "264:0:100:50:DEFAULT:textures/items/diamond" #id : Diamant
+      3: # Item 1
+        Name: "388:0:100:60:DEFAULT:textures/items/emerald" #id : Emeraude
+      4: # Item 1
+        Name: "331:0:30:15:DEFAULT:textures/items/redstone_dust" #id : Redstone
+      5: # Item 1
+        Name: "351:4:50:25:DEFAULT:textures/items/dye_powder_blue" #id : Lapis-Lazuli
+  6: # Catégorie 1
+    Name: "Autre:textures/items/compass_item" # Name : texture
+    Items:
+      0: # Item 1
+        Name: "116:0:1000:100:DEFAULT:textures/blocks/enchanting_table_side" #id : Table enchantement
+      1: # Item 1
+        Name: "145:0:1000:100:DEFAULT:textures/blocks/anvil_base" #id :  Enclume
+      2: # Item 1
+        Name: "130:0:1000:100:DEFAULT:textures/blocks/ender_chest_front" #id :  EnderChest
+      3: # Item 1
+        Name: "340:0:100:10:DEFAULT:textures/items/book_normal" #id :  Livre
+      4: # Item 1
+        Name: "360:0:200:100:DEFAULT:textures/items/ender_pearl" #id :  Enderpearl
+      5: # Item 1
+        Name: "345:0:100:10:DEFAULT:textures/items/compass_item" #id :  Bousolle
+      6: # Item 1
+        Name: "259:0:300:10:DEFAULT:textures/items/flint_and_steel" #id :  Briquet
+      7: # Item 1
+        Name: "46:0:100:10:DEFAULT:textures/blocks/tnt_side" #id :  TNT
+      8: # Item 1
+        Name: "364:0:10:1:DEFAULT:textures/items/beef_cooked" #id :  Steak
+      9: # Item 1
+        Name: "52:0:1000000:1:DEFAULT:textures/blocks/mob_spawner" #id :  Spawner Vide
+      10: # Item 1
+        Name: "383:33:300000:1:DEFAULT:textures/items/egg_creeper" #id :  Oeuf de creeper
+      11: # Item 1
+        Name: "383:32:300000:1:DEFAULT:textures/items/egg_zombie" #id :  Oeuf de zombie
+      12: # Item 1
+        Name: "383:35:300000:1:DEFAULT:textures/items/egg_spider" #id :  Oeuf de araignée
+      13: # Item 1
+        Name: "383:34:300000:1:DEFAULT:textures/items/egg_skeleton" #id :  Oeuf de squelette
+      14: # Item 1
+        Name: "383:43:300000:1:DEFAULT:textures/items/egg_blaze" #id :  Oeuf de blaze
+  7: # Catégorie 1
+    Name: "Items Spawners:textures/items/gunpowder" # Name : texture
+    Items:
+      0: # Item 1
+        Name: "289:0:1000:25:DEFAULT:textures/items/gunpowder" #id : Poudre de creeper
+      1: # Item 1
+        Name: "367:0:1000:25:DEFAULT:textures/items/rotten_flesh" #id : Chair de zombie
+      2: # Item 1
+        Name: "287:0:1000:25:DEFAULT:textures/items/string" #id : Ficelle
+      3: # Item 1
+        Name: "352:0:1000:25:DEFAULT:textures/items/bone" #id : OS
+      4: # Item 1
+        Name: "369:0:1000:25:DEFAULT:textures/items/blaze_rod" #id : Baton de blaze

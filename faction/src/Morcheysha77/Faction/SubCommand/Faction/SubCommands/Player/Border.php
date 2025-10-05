@@ -1,0 +1,34 @@
+<?php
+
+
+namespace Morcheysha77\Faction\SubCommand\Faction\SubCommands\Player;
+
+use Morcheysha77\Faction\Player\FPlayer;
+use Morcheysha77\Faction\SubCommand\SubCommand;
+
+class Border extends SubCommand
+{
+
+    /**
+     * @param FPlayer $sender
+     * @param string $commandLabel
+     * @param array $args
+     * @return bool
+     */
+    public function execute(FPlayer $sender, string $commandLabel, array $args): bool
+    {
+        if($sender->seechunk) {
+
+            $sender->seechunk = false;
+            $sender->sendMessage(self::PREFIX . "Vous avez désactivé le seechunk !");
+
+        } else {
+
+            $sender->seechunk = true;
+            $sender->sendMessage(self::PREFIX . "Vous avez activé le seechunk !");
+
+        }
+
+        return true;
+    }
+}
