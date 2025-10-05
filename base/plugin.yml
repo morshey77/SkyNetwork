@@ -1,0 +1,6 @@
+name: VPacks
+main: vezdehod\packs\VPacksMain
+version: 1.0.1-WIP
+author: Vezdehod
+api: 4.0.0
+description: Bootstrap time RP generator with powerful API
